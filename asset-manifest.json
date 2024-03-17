@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/BLO-Projects/static/css/main.87fecd66.css",
+    "main.js": "/BLO-Projects/static/js/main.bbada2e0.js",
+    "static/js/453.fe094ccf.chunk.js": "/BLO-Projects/static/js/453.fe094ccf.chunk.js",
+    "index.html": "/BLO-Projects/index.html",
+    "main.87fecd66.css.map": "/BLO-Projects/static/css/main.87fecd66.css.map",
+    "main.bbada2e0.js.map": "/BLO-Projects/static/js/main.bbada2e0.js.map",
+    "453.fe094ccf.chunk.js.map": "/BLO-Projects/static/js/453.fe094ccf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.87fecd66.css",
+    "static/js/main.bbada2e0.js"
+  ]
+}
